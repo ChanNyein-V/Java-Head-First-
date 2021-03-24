@@ -1,2 +1,2 @@
-# Java-Head-First-
-The Fundamental Java Programming from Head First Java
+# Java(Head-First)
+The Fundamental Concept of Java Programming from Head First Java.
